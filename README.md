@@ -6,12 +6,13 @@ The tool supports a wide range of emotions, from casual conversation to expressi
 
 ---
 
-## Scheme
+## 📌 Scheme
 
+<img src="./img/img-1.png" alt="Scheme">
 
 ---
 
-## Technical Description
+## ⚙️ Technical Description
 Voice cloning combines **deep learning models** with **speech synthesis** to replicate human voices. By analyzing vocal patterns (tone, rhythm, pitch, and timbre), the system creates a digital voiceprint. This voiceprint can then be used to generate speech in multiple languages and emotional tones, while retaining the speaker’s unique identity.
 
 ---
@@ -22,6 +23,18 @@ Voice cloning combines **deep learning models** with **speech synthesis** to rep
 - Film dubbing while preserving the actor’s real voice.
 - Accessibility tools for speech-impaired users to restore their natural voice.
 
+<table>
+    <tbody>
+        <tr>
+            <td><img src="./img/img-2.png" alt="image"></td>
+            <td><img src="./img/img-3.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-4.png" alt="image"></td>
+            <td><img src="./img/img-5.png" alt="image"></td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
