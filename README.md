@@ -36,6 +36,19 @@ Voice cloning combines **deep learning models** with **speech synthesis** to rep
     </tbody>
 </table>
 
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 
 ## Long Description
