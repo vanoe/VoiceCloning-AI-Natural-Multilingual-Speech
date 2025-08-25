@@ -49,6 +49,21 @@ Voice cloning combines **deep learning models** with **speech synthesis** to rep
     </tbody>
 </table>
 
+[▶️ Listen to audio (Adam Erhart cloned)](https://raw.githubusercontent.com/vanoe/VoiceCloning-AI-Natural-Multilingual-Speech/master/audio/1.mp3)
+
+[▶️ Listen to audio (Adam male original)](https://raw.githubusercontent.com/vanoe/VoiceCloning-AI-Natural-Multilingual-Speech/master/audio/2.mp3)
+
+[▶️ Listen to audio (Cloned Natalie Dawson)](https://raw.githubusercontent.com/vanoe/VoiceCloning-AI-Natural-Multilingual-Speech/master/audio/3.mp3)
+
+[▶️ Listen to audio (Cloned Spanish male)](https://raw.githubusercontent.com/vanoe/VoiceCloning-AI-Natural-Multilingual-Speech/master/audio/4.mp3)
+
+[▶️ Listen to audio (Natalie Dawson female)](https://raw.githubusercontent.com/vanoe/VoiceCloning-AI-Natural-Multilingual-Speech/master/audio/5.mp3)
+
+[▶️ Listen to audio (Original Spanish female)](https://raw.githubusercontent.com/vanoe/VoiceCloning-AI-Natural-Multilingual-Speech/master/audio/6.mp3)
+
+[▶️ Listen to audio (Original Spanish male)](https://raw.githubusercontent.com/vanoe/VoiceCloning-AI-Natural-Multilingual-Speech/master/audio/7.mp3)
+
+[▶️ Listen to audio (Spanish cloned female)](https://raw.githubusercontent.com/vanoe/VoiceCloning-AI-Natural-Multilingual-Speech/master/audio/8.mp3)
 
 ---
 
